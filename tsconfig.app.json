@@ -26,7 +26,7 @@
       "@ui/*": ["./src/ui/*"],
       "@pages": ["./src/pages"],
       "@router": ["./src/router"],
-      "@/*": ["./src/*"],
+      "@/*": ["./src/*"]
     }
   },
   "include": ["src"]
